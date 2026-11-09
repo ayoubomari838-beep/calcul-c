@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void) {
-    printf("Bienvenue");
+    printf("Bienvenue au calcul-c");
     int a, b, s;
 
     printf("Entrez le premier entier : ");
